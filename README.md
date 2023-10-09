@@ -13,7 +13,7 @@ This a simple smart home project to get knowledge about big projects and how to 
 	4. [Lighting System.](#lighting-system)
 	5. [Security System.](#security-system)
 	6. [General Requirements.](#general-requirements)
-
+4. [Proteus Simulation.](#proteus-simulation)
 
 ## Mapping.
 
@@ -78,3 +78,6 @@ message “Wrong!Try Again.” and the system shouldn’t work until the correct
 - The LCD should display “The System is Stopped” when the system is stopped as a result of the Fire Alarm system.
 - No polling should be done for checking the push buttons status.
 
+### Proteus Simulation. 
+
+![Alt Text](https://github.com/Ahmed-Mohammed-Hussanein/Smart-Home-Project/blob/master/Simulation.gif)
